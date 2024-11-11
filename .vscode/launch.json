@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Laboratorio2_Equipo1",
+            "cwd": "Laboratorio2_Equipo1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Laboratorio2_Equipo1 (profile mode)",
+            "cwd": "Laboratorio2_Equipo1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Laboratorio2_Equipo1 (release mode)",
+            "cwd": "Laboratorio2_Equipo1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
